@@ -1,0 +1,54 @@
+h1{
+	text-align: center;
+	color: #000;
+	font-size: 46px;
+	text-transform: uppercase;
+
+}
+
+.imagen {
+	width: 400px;
+	height: 400px;
+	float: top;
+
+}
+
+.texto {
+	color: #000;
+	text-align: justify;
+	font-size: 18px;
+	margin: 20px;
+}
+
+.capaIzq {
+	width: 600px;
+	position: absolute;
+	margin-left: 40px;
+	border-radius: 25px;
+	background-color: #fda573;
+}
+
+
+.capaDerecha {
+	left: 700px;
+	position: absolute;
+	margin-right : 180px;
+	border-radius: 25px;
+	background-color: #0251F9;
+}
+
+.image {
+	width: 300px;
+	height: 300px;
+	float: left;
+     
+}
+
+.text {
+	color: #000;
+	text-align: justify;
+	font-size: 18px;
+	margin: 20px;
+	
+
+}
